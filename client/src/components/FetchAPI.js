@@ -1,6 +1,5 @@
 import axios from "axios";
 import {useEffect, useState} from "react";
-import {logDOM} from "@testing-library/react";
 
 
 export default function FetchAPI(){
